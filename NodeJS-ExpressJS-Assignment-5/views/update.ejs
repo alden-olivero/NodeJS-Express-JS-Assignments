@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update Employee</title>
+</head>
+<body>
+    <%- include('partials/header')%>
+    <h1>Update Employee Details</h1>
+    <form action="/web/employees/update" method="post">
+        <input type="hidden" name="eid" value="<%= employee._id %>">
+        
+        <label for="efn">First Name:</label>
+        <input type="text" name="efn" value="<%= employee.first_name %>" required>
+
+        <label for="eln">Last Name:</label>
+        <input type="text" name="eln" value="<%= employee.last_name %>" required>
+
+        <label for="email">Email:</label>
+        <input type="text" name="email" value="<%= employee.email %>" required>
+
+        <button type="submit">Update</button>
+    </form>
+    <%- include('partials/footer')%>
+</body>
+</html>

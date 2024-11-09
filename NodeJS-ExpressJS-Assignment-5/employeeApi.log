@@ -1,0 +1,63 @@
+{"error":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"EmpModel\"","id":"1","level":"error","message":"Failed to fetch employee","timestamp":"2024-11-06T05:31:03.684Z"}
+{"level":"error","message":"Error:","timestamp":"2024-11-06T05:33:09.097Z"}
+{"error":"/api/v1/employee is not found","level":"error","message":"Error:","timestamp":"2024-11-06T05:35:04.175Z"}
+{"error":"/api/v1/employee is not found","level":"error","message":"Fix URl","timestamp":"2024-11-06T05:36:25.381Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:25:13.947Z"}
+{"error":"/favicon.ico is not found","level":"error","message":"Fix URl","timestamp":"2024-11-06T13:25:14.091Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:25:37.667Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:26:00.917Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:26:18.437Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:26:26.190Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:26:27.263Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:26:31.841Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:27:04.687Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:27:05.356Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:27:05.663Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:27:05.893Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:27:06.106Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:27:06.323Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:27:12.329Z"}
+{"count":1,"level":"info","message":"Fetched all employees","timestamp":"2024-11-06T13:27:56.777Z"}
+{"count":1,"level":"info","message":"Fetched all employees","timestamp":"2024-11-06T13:28:40.891Z"}
+{"error":"E11000 duplicate key error collection: employee.empmodels index: eid_1 dup key: { eid: 1 }","level":"error","message":"Employee registration failed","timestamp":"2024-11-06T13:28:47.329Z"}
+{"employeeId":"672b6f1c8b26af6b4674566d","level":"info","message":"New employee added successfully","timestamp":"2024-11-06T13:29:00.815Z"}
+{"employeeId":"672b6f518b26af6b4674566f","level":"info","message":"New employee added successfully","timestamp":"2024-11-06T13:29:53.536Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:29:56.567Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:30:32.487Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:30:47.678Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-06T13:31:11.241Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:08:10.172Z"}
+{"error":"/favicon.ico is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T07:08:10.326Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:08:44.144Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:13:56.263Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:13:59.036Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:13:59.683Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:13:59.895Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:14:00.214Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:14:15.024Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:14:51.606Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:14:52.686Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:14:52.908Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:14:53.122Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:14:53.347Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:16:07.534Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:16:46.669Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:17:15.533Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:17:21.591Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:18:00.631Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:18:06.406Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:25:41.459Z"}
+{"error":"/web/employees/img_avatar2.png is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T07:31:01.866Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T07:31:11.363Z"}
+{"error":"/web/employees/img_avatar2.png is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T07:52:59.403Z"}
+{"error":"/web/employees/img_avatar2.png is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T07:53:41.734Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T15:21:23.225Z"}
+{"error":"/favicon.ico is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T15:21:23.368Z"}
+{"error":"/web/employees/img_avatar2.png is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T15:21:39.575Z"}
+{"level":"info","message":"Fetched all employee details for rendering","timestamp":"2024-11-07T15:21:46.632Z"}
+{"employeeId":"672cdb039e28c8da49723bcd","level":"info","message":"Employee updated successfully","timestamp":"2024-11-07T15:22:46.102Z"}
+{"employeeId":"672cdb039e28c8da49723bcd","level":"info","message":"Employee updated successfully","timestamp":"2024-11-07T15:22:53.866Z"}
+{"employeeId":"671f97111990993a9645cccf","level":"info","message":"Employee updated successfully","timestamp":"2024-11-07T15:23:00.384Z"}
+{"employeeId":"671f97111990993a9645cccf","level":"info","message":"Employee updated successfully","timestamp":"2024-11-07T15:23:06.549Z"}
+{"error":"/web/employees/img_avatar2.png is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T15:24:13.246Z"}
+{"employeeId":"671f97111990993a9645cccf","level":"info","message":"Employee updated successfully","timestamp":"2024-11-07T15:25:03.244Z"}

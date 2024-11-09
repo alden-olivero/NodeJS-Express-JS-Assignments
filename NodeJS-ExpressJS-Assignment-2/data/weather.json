@@ -1,0 +1,448 @@
+[
+  {
+    "city": {
+      "id": 1283240,
+      "name": "Delhi",
+      "findname": "Delhi",
+      "country": "India",
+      "coord": {
+        "lon": 85.316666,
+        "lat": 27.716667
+      },
+      "zoom": 7
+    },
+    "time": 1489487389,
+    "main": {
+      "temp": 291.15,
+      "pressure": 1017,
+      "humidity": 45,
+      "temp_min": 291.15,
+      "temp_max": 291.15
+    },
+    "wind": {
+      "speed": 9.3,
+      "deg": 240,
+      "var_beg": 200,
+      "var_end": 270
+    },
+    "clouds": {
+      "all": 75
+    },
+    "weather": [
+      {
+        "id": 501,
+        "main": "No Rain",
+        "description": "proximity moderate rain",
+        "icon": "10d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 3632308,
+      "name": "Merida",
+      "findname": "MERIDA",
+      "country": "VE",
+      "coord": {
+        "lon": -71.144997,
+        "lat": 8.598333
+      },
+      "zoom": 8
+    },
+    "time": 1489487389,
+    "main": {
+      "temp": 283.584,
+      "temp_min": 283.584,
+      "temp_max": 283.584,
+      "pressure": 815.99,
+      "sea_level": 1024.28,
+      "grnd_level": 815.99,
+      "humidity": 100
+    },
+    "wind": {
+      "speed": 0.78,
+      "deg": 119.003
+    },
+    "clouds": {
+      "all": 20
+    },
+    "weather": [
+      {
+        "id": 500,
+        "main": "Rain",
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "rain": {
+      "3h": 0.43
+    }
+  },
+  {
+    "city": {
+      "id": 1280737,
+      "name": "Lhasa",
+      "findname": "LHASA",
+      "country": "CN",
+      "coord": {
+        "lon": 91.099998,
+        "lat": 29.65
+      },
+      "zoom": 6
+    },
+    "time": 1489487390,
+    "main": {
+      "temp": 274.484,
+      "temp_min": 274.484,
+      "temp_max": 274.484,
+      "pressure": 603.53,
+      "sea_level": 1014.44,
+      "grnd_level": 603.53,
+      "humidity": 20
+    },
+    "wind": {
+      "speed": 3.13,
+      "deg": 231.003
+    },
+    "clouds": {
+      "all": 64
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 745042,
+      "name": "İstanbul",
+      "findname": "İSTANBUL",
+      "country": "TR",
+      "coord": {
+        "lon": 28.983311,
+        "lat": 41.03508
+      },
+      "zoom": 1,
+      "langs": [
+        {
+          "bg": "Истанбул"
+        },
+        {
+          "el": "Ισταμπούλ"
+        },
+        {
+          "en": "Istanbul"
+        },
+        {
+          "es": "Provincia de Estambul"
+        },
+        {
+          "ja": "イスタンブール"
+        },
+        {
+          "link": "http://en.wikipedia.org/wiki/Istanbul_Province"
+        },
+        {
+          "no": "Istanbul"
+        },
+        {
+          "ru": "Стамбул"
+        },
+        {
+          "tr": "İstanbul"
+        },
+        {
+          "zh": "伊斯坦布尔"
+        }
+      ]
+    },
+    "time": 1489487390,
+    "main": {
+      "temp": 277.63,
+      "pressure": 1020,
+      "humidity": 86,
+      "temp_min": 277.15,
+      "temp_max": 278.15
+    },
+    "wind": {
+      "speed": 4.6,
+      "deg": 290,
+      "var_beg": 260,
+      "var_end": 320
+    },
+    "clouds": {
+      "all": 75
+    },
+    "weather": [
+      {
+        "id": 500,
+        "main": "Rain",
+        "description": "light rain",
+        "icon": "10d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 3496831,
+      "name": "Mao",
+      "findname": "MAO",
+      "country": "DO",
+      "coord": {
+        "lon": -71.078133,
+        "lat": 19.551861
+      },
+      "zoom": 10
+    },
+    "time": 1489487390,
+    "main": {
+      "temp": 294.84,
+      "pressure": 1016,
+      "humidity": 100,
+      "temp_min": 294.15,
+      "temp_max": 295.15
+    },
+    "wind": {
+      "speed": 2.6,
+      "deg": 140
+    },
+    "clouds": {
+      "all": 75
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 523523,
+      "name": "Nalchik",
+      "findname": "NALCHIK",
+      "country": "RU",
+      "coord": {
+        "lon": 43.618889,
+        "lat": 43.498058
+      },
+      "zoom": 8
+    },
+    "time": 1489487390,
+    "main": {
+      "temp": 278.15,
+      "pressure": 1013,
+      "humidity": 93,
+      "temp_min": 278.15,
+      "temp_max": 278.15
+    },
+    "wind": {
+      "speed": 2.08,
+      "deg": 57.5029
+    },
+    "clouds": {
+      "all": 90
+    },
+    "weather": [
+      {
+        "id": 701,
+        "main": "Mist",
+        "description": "mist",
+        "icon": "50d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 2267057,
+      "name": "Lisbon",
+      "findname": "LISBON",
+      "country": "PT",
+      "coord": {
+        "lon": -9.13333,
+        "lat": 38.716671
+      },
+      "zoom": 7
+    },
+    "time": 1489487391,
+    "main": {
+      "temp": 285.54,
+      "pressure": 1023,
+      "humidity": 62,
+      "temp_min": 284.15,
+      "temp_max": 287.15
+    },
+    "wind": {
+      "speed": 7.7,
+      "deg": 60
+    },
+    "clouds": {
+      "all": 20
+    },
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 3082707,
+      "name": "Walbrzych",
+      "findname": "WALBRZYCH",
+      "country": "PL",
+      "coord": {
+        "lon": 16.284321,
+        "lat": 50.771412
+      },
+      "zoom": 8
+    },
+    "time": 1489487391,
+    "main": {
+      "temp": 280.15,
+      "pressure": 1029,
+      "humidity": 52,
+      "temp_min": 280.15,
+      "temp_max": 280.15
+    },
+    "wind": {
+      "speed": 3.1,
+      "deg": 180,
+      "var_beg": 150,
+      "var_end": 210
+    },
+    "clouds": {
+      "all": 0
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 3091150,
+      "name": "Naklo nad Notecia",
+      "findname": "NAKLO NAD NOTECIA",
+      "country": "PL",
+      "coord": {
+        "lon": 17.60181,
+        "lat": 53.142139
+      },
+      "zoom": 9
+    },
+    "time": 1489487392,
+    "main": {
+      "temp": 281.15,
+      "pressure": 1027,
+      "humidity": 49,
+      "temp_min": 281.15,
+      "temp_max": 281.15
+    },
+    "wind": {
+      "speed": 5.7,
+      "deg": 250
+    },
+    "clouds": {
+      "all": 0
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 1784658,
+      "name": "Zhengzhou",
+      "findname": "ZHENGZHOU",
+      "country": "CN",
+      "coord": {
+        "lon": 113.648613,
+        "lat": 34.757778
+      },
+      "zoom": 6
+    },
+    "time": 1489487392,
+    "main": {
+      "temp": 285.15,
+      "pressure": 1025,
+      "humidity": 18,
+      "temp_min": 285.15,
+      "temp_max": 285.15
+    },
+    "wind": {
+      "speed": 2,
+      "deg": 130,
+      "var_beg": 110,
+      "var_end": 170
+    },
+    "clouds": {
+      "all": 0
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 1348747,
+      "name": "Bankra",
+      "findname": "BANKRA",
+      "country": "IN",
+      "coord": {
+        "lon": 88.298058,
+        "lat": 22.627501
+      },
+      "zoom": 12
+    },
+    "time": 1489487392,
+    "main": {
+      "temp": 303.15,
+      "pressure": 1012,
+      "humidity": 30,
+      "temp_min": 303.15,
+      "temp_max": 303.15
+    },
+    "wind": {
+      "speed": 2.6,
+      "deg": 300
+    },
+    "clouds": {
+      "all": 0
+    },
+    "weather": [
+      {
+        "id": 721,
+        "main": "Haze",
+        "description": "haze",
+        "icon": "50d"
+      }
+    ]
+  },
+  {
+    "id": null
+  }
+]

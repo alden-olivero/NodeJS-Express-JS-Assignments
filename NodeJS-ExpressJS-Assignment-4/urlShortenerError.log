@@ -1,0 +1,7 @@
+{"error":"/api/v1/url is not found","level":"error","message":"API Error","timestamp":"2024-11-06T10:01:11.341Z"}
+{"error":"UrlModel validation failed: originalUrl: Original URL is required","level":"error","message":"Failed to create short URL","timestamp":"2024-11-06T10:02:02.378Z"}
+{"error":"Failed to create short URL","level":"error","message":"API Error","timestamp":"2024-11-06T10:02:02.379Z"}
+{"level":"error","message":"Short URL not found for update","shortUrlCode":"FKhPZHI","timestamp":"2024-11-06T10:05:27.489Z"}
+{"error":"Short URL not found","level":"error","message":"API Error","timestamp":"2024-11-06T10:05:27.490Z"}
+{"level":"error","message":"Short URL not found for deletion","shortUrlCode":"FKhPZHI","timestamp":"2024-11-06T10:05:51.578Z"}
+{"error":"Short URL not found","level":"error","message":"API Error","timestamp":"2024-11-06T10:05:51.579Z"}

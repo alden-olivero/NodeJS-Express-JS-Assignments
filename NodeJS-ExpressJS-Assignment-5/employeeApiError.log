@@ -1,0 +1,13 @@
+{"error":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"EmpModel\"","id":"1","level":"error","message":"Failed to fetch employee","timestamp":"2024-11-06T05:31:03.686Z"}
+{"level":"error","message":"Error:","timestamp":"2024-11-06T05:33:09.099Z"}
+{"error":"/api/v1/employee is not found","level":"error","message":"Error:","timestamp":"2024-11-06T05:35:04.176Z"}
+{"error":"/api/v1/employee is not found","level":"error","message":"Fix URl","timestamp":"2024-11-06T05:36:25.383Z"}
+{"error":"/favicon.ico is not found","level":"error","message":"Fix URl","timestamp":"2024-11-06T13:25:14.091Z"}
+{"error":"E11000 duplicate key error collection: employee.empmodels index: eid_1 dup key: { eid: 1 }","level":"error","message":"Employee registration failed","timestamp":"2024-11-06T13:28:47.330Z"}
+{"error":"/favicon.ico is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T07:08:10.326Z"}
+{"error":"/web/employees/img_avatar2.png is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T07:31:01.868Z"}
+{"error":"/web/employees/img_avatar2.png is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T07:52:59.406Z"}
+{"error":"/web/employees/img_avatar2.png is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T07:53:41.736Z"}
+{"error":"/favicon.ico is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T15:21:23.368Z"}
+{"error":"/web/employees/img_avatar2.png is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T15:21:39.575Z"}
+{"error":"/web/employees/img_avatar2.png is not found","level":"error","message":"Fix URl","timestamp":"2024-11-07T15:24:13.247Z"}
